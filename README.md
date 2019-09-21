@@ -1,2 +1,12 @@
-# PersonalWebsite
-Personal website made with pure HTML and CSS.
+  <html>
+  <body>
+<h1>
+A personal website made using pure HTML and CSS.
+<h2>
+  <p> For any inquiries, comments or advice do not hesitate to contact me on hadeelsalah80@gmail.com ^_^</p>
+   <p>All Photos you can find in https://www.pinterest.com and https://www.iconfinder.com</p>
+  <p> for clear vision, copy the url website photo and paste it in you Browser.</p>
+  </body>
+  </html>
+  
+  
